@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681093794 source:c:\side-projects\funix\iot\asg 02\asg 02-4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
